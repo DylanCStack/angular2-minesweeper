@@ -1,4 +1,32 @@
-# Experince95
+# Angular 2 Minesweeper
+
+# Cameron's Coffee
+### Authored by Dylan Stackhouse
+## Description
+A site to play classic minesweeper. You can also save and compare your score to other players.
+
+## Prerequisites
+
+You will need the following things properly installed on your computer.
+
+* [Git](https://git-scm.com/)
+* [Node.js](https://nodejs.org/) (with NPM)
+* [Bower](https://bower.io/)
+* [Angular](https://angular.io/)
+* [Angular-CLI](https://cli.angular.io/)
+
+## Setup
+
+* $`git clone https://github.com/DylanCStack/Meal-Tracker.git`
+* $`cd club-manager`
+* $`npm install`
+* $`bower install`
+* $`ng serve`
+* Navigate to localhost:4200 in a web browser
+
+
+
+### Additional Information
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
 
@@ -14,15 +42,5 @@ Run `ng generate component component-name` to generate a new component. You can 
 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
 
-## Running unit tests
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+### Copyright (c) 2017 Dylan Stackhouse
