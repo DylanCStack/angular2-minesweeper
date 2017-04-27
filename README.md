@@ -1,6 +1,6 @@
 # Angular 2 Minesweeper
 
-# Cameron's Coffee
+
 ### Authored by Dylan Stackhouse
 ## Description
 A site to play classic minesweeper. You can also save and compare your score to other players.
